@@ -34,7 +34,7 @@ brew cask install java
 * For running NumberConverter, simply run the `NumberConverter.jar`-File.
 
 ### Windows
-* Right-click on the `NumberConverter.jar`-File and open it using `Java Runtime Environment`
+* Right-click on the `NumberConverter.jar`-File and open it using Java Runtime Environment
 * Alternatively using the Windows Terminal, PowerShell or the Command Prompt:
 1. Go to the directory where you have the `NumberConverter.jar`-File saved (by using `cd c:\PATH\`)
 2. Run the jar-File by entering `java.exe -jar NumberConverter.jar`
